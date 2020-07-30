@@ -1,4 +1,4 @@
-# Hola, I'm Frances!
+# Hola, I'm Frances! 🍓 🍫
 
 I am currently a software engineer specializing in UI development on the Customer Acquisition Team at [Slack](https://fvcproductions.com/2018/06/04/slack/) where my mission is to make your working life simpler, more pleasant, and more productive. 💛
 
