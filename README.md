@@ -6,4 +6,4 @@ I have been working professionally as a developer since 2015 and hold a Bachelor
 
 Outside of Slack, I am an Executive Director of [Techqueria](https://fvcproductions.com/2018/04/24/techqueria/), a 501c3 nonprofit that serves the largest community of Latinx in Tech in the US. 🌮
 
-I also support [Code Nation](https://fvcproductions.com/2020/05/05/code-nation-bay-area-leadership-council/) as a member of their Bay Area Leadership Council and the [Latino Community Foundation](https://fvcproductions.com/2020/05/04/latinos-in-tech-giving-circle/) as a member of their Latinos in Tech Giving Circle. 💛
+I also support [Coro Northern California](https://coronorcal.org/network/coro-team/) as a member of their Board of Directors, [Code Nation](https://fvcproductions.com/2020/05/05/code-nation-bay-area-leadership-council/) as a member of their Bay Area Leadership Council and the [Latino Community Foundation](https://fvcproductions.com/2020/05/04/latinos-in-tech-giving-circle/) as a member of their Latinos in Tech Giving Circle. 💛
