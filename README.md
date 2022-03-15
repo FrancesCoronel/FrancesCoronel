@@ -6,7 +6,7 @@ I have been working professionally as a developer since 2015 and hold a Bachelor
 
 Outside of work, I volunteer as Technology Director and an Advisory Board Member for [Techqueria](https://techqueria.org), a nonprofit that serves the largest global community of Latinx professionals in tech. 🌮
 
-[![Frances Coronel GitHub - Profile Views](https://komarev.com/ghpvc/?username=FrancesCoronel&label=Profile+Views&style=flat-square&color=blue)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers)
+<!-- [![Frances Coronel GitHub - Profile Views](https://komarev.com/ghpvc/?username=FrancesCoronel&label=Profile+Views&style=flat-square&color=blue)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers) -->
 
 [![Frances Coronel GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/FrancesCoronel?logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FrancesCoronel)
 
