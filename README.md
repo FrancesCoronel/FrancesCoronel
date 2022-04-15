@@ -1,6 +1,6 @@
 # Hola, I'm [Frances](https://francescoronel.com)! 🍓 🍫
 
-I am a software engineer (#3) at [Byteboard](https://byteboard.dev), where we're building an interview that finally assesses for ability, not access and privilege.
+I am software engineer #3 at [Byteboard](https://byteboard.dev), where we're building an interview that finally assesses for ability, not access and privilege.
 
 I have been working professionally as a developer since 2015 and hold a Bachelor's in Computer Science from Hampton University and a Master's in Computer Science from Cornell Tech. 🎓
 
