@@ -6,7 +6,7 @@ I have been working professionally as a developer since 2015 and hold a Bachelor
 
 Previously, I worked at [Slack](https://slack.com) on the Customer Acquisition team where I specialized in lead generation. 🌱
 
-[![Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)]((https://github.com/FrancesCoronel/FrancesCoronel/discussions/categories/ask-me-anything))
+[![Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrancesCoronel/FrancesCoronel/discussions/categories/ask-me-anything)
 
 <!-- [![Frances Coronel GitHub - Profile Views](https://komarev.com/ghpvc/?username=FrancesCoronel&label=Profile+Views&style=for-the-badge&color=yellow)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers) -->
 
