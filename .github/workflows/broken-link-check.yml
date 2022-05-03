@@ -1,8 +1,5 @@
 on:
- repository_dispatch:
- workflow_dispatch:
- schedule:
-   - cron: "00 18 * * *"
+  push
 name: Check for broken links
 jobs:
   linkChecker:
