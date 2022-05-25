@@ -1,6 +1,6 @@
 # Hola, I'm [Frances](https://francescoronel.com)! 🍓 🍫
 
-I am software engineer #3 at [Byteboard](https://byteboard.dev), where we're building an interview that finally assesses for ability, not access and privilege.
+I am senior software engineer at [Byteboard](https://byteboard.dev), where we're building an interview that finally assesses for ability, not access and privilege. I joined as the 3rd engineer and 10th overall hire.
 
 I have been working professionally as a developer since 2015 and hold a Bachelor's and Master's in Computer Science.
 
