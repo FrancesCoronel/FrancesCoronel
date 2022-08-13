@@ -6,6 +6,10 @@ I have been working professionally as a developer since 2015 and hold a Bachelor
 
 Previously, I worked at [Slack](https://slack.com) on the Customer Acquisition team where I specialized in lead generation. 🌱
 
+*My open source journey was featured on [GitHub's README project](https://github.com/readme/stories/frances-coronel).*
+
+[![README-GitHub-Frances-Coronel](https://user-images.githubusercontent.com/4284691/184511703-af836526-bd88-463e-a7ee-2a4e778024d2.jpg)](https://github.com/readme/stories/frances-coronel)
+
 <!-- [![Frances Coronel - Follow on Twitter](https://img.shields.io/twitter/follow/FrancesCoronel?logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FrancesCoronel) -->
 
 [![Frances Coronel - Wakatime](https://wakatime.com/badge/user/3c657641-ecb4-45cf-8af1-26ec2a51c881.svg?style=for-the-badge)](https://wakatime.com/@francescoronel)
