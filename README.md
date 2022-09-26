@@ -8,7 +8,7 @@ I have been working professionally as a developer since 2015 and hold a Bachelor
 
 Previously, I worked at [Slack](https://slack.com) on the Customer Acquisition team where I specialized in lead generation. 🌱
 
-*My open source journey is featured on [GitHub's README project](https://github.com/readme/stories/frances-coronel).*
+*My open source journey is featured on [GitHub's README project](https://github.com/readme/stories/frances-coronel) and so is my [ONWARD framework](https://github.com/readme/guides/onward-maintainer-framework) for open source project maintainers.*
 
 <!-- [![Frances Coronel - Follow on Twitter](https://img.shields.io/twitter/follow/FrancesCoronel?logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FrancesCoronel) -->
 
