@@ -1,12 +1,16 @@
-# Hola, I'm [Frances](https://francescoronel.com)! 🍓 🍫
+# Hola, I'm [Frances](https://francescoronel.com)! 🍓🍫
 
 <img width="250" src="https://user-images.githubusercontent.com/4284691/187105470-49c5c520-b307-4a06-9965-5d8fe8763965.png">
 
-I am senior software engineer at [Byteboard](https://byteboard.dev), where we're building an interview that finally assesses for ability, not access and privilege. I joined as the 3rd engineer and 10th overall hire.
+I am senior software engineer at [Byteboard](https://byteboard.dev), where we're building an interview that finally assesses for ability, not access and privilege. I joined as the 3rd engineer and 10th overall hire. 💼
 
-I have been working professionally as a developer since 2015 and hold a Bachelor's and Master's in Computer Science.
+I have been working professionally as a developer since 2015 and hold a Bachelor's and Master's in Computer Science. 📖
 
 Previously, I worked at [Slack](https://slack.com) on the Customer Acquisition team where I specialized in lead generation. 🌱
+
+I'm Peruvian-American and I'm a big advocate for more Latinx representation in tech. 🇵🇪
+
+I live in Inglewood, CA with my partner and two Corgis, Luna & Sueño. 🐾
 
 *My open source journey is featured on [GitHub's README project](https://github.com/readme/stories/frances-coronel).*
 
