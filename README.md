@@ -53,4 +53,4 @@ Gave my brief two cents on the art of finding your open source mentor on [the Re
 
 I'm the proud sponsor of the 👩🏽‍💻️ emoji through [The Unicode Consortium](https://www.unicode.org/consortium/adopted-characters.html).
 
-<a href="https://www.unicode.org/consortium/adopted-characters.html#g1F469_1F3FD_200D_1F4BB" target="_blank"><img src="https://www.unicode.org/consortium/aacimg/badges/gold-1F469_1F3FD_200D_1F4BB.png" alt="Woman Technologist - Medium Skin Tone Emoji" width="150" /></a>
+<a href="https://www.unicode.org/consortium/adopted-characters.html#g1F469_1F3FD_200D_1F4BB"><img src="https://www.unicode.org/consortium/aacimg/badges/gold-1F469_1F3FD_200D_1F4BB.png" alt="Woman Technologist - Medium Skin Tone Emoji" width="150" /></a>
