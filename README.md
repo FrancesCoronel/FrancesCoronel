@@ -14,7 +14,7 @@ I was born and raised in Norfolk, Virginia, and I identify as Peruvian-American.
 
 I am passionate about supporting and uplifting Latinx professionals in tech (especially Latina software engineers), employee resource groups, and software engineering apprentices. 💛
 
-## <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" width="150" alt="GitHub" />
+## GitHub
 
 I've enjoyed having my work published through GitHub's ReadME project.
 
