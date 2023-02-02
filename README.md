@@ -39,18 +39,18 @@ Gave my brief two cents on the art of finding your open source mentor on [the Re
 <!-- [![Frances Coronel - GitHub - Profile Views](https://komarev.com/ghpvc/?username=FrancesCoronel&label=GitHub+Profile+Views&style=for-the-badge&color=yellow)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers) 
  -->
  
-## Ask Me Anything
-
-[![Frances Coronel - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrancesCoronel/FrancesCoronel/discussions/categories/ask-me-anything)
-
-## View Stats
-
-[![Frances Coronel - Wakatime](https://wakatime.com/badge/user/3c657641-ecb4-45cf-8af1-26ec2a51c881.svg?style=for-the-badge)](https://wakatime.com/@francescoronel)
-
-[![Frances Coronel - GitHub Overview](https://github-readme-stats.vercel.app/api?username=francescoronel&show_icons=true&theme=vue-dark&locale=en)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers)
-
 ## Adopted Emoji
 
 I'm the proud sponsor of the 👩🏽‍💻️ emoji through [The Unicode Consortium](https://www.unicode.org/consortium/adopted-characters.html).
 
 <a href="https://www.unicode.org/consortium/adopted-characters.html#g1F469_1F3FD_200D_1F4BB"><img src="https://www.unicode.org/consortium/aacimg/badges/gold-1F469_1F3FD_200D_1F4BB.png" alt="Woman Technologist - Medium Skin Tone Emoji" width="150" /></a>
+
+## Ask Me Anything
+
+[![Frances Coronel - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrancesCoronel/FrancesCoronel/discussions/categories/ask-me-anything)
+
+## Stats
+
+[![Frances Coronel - Wakatime](https://wakatime.com/badge/user/3c657641-ecb4-45cf-8af1-26ec2a51c881.svg?style=for-the-badge)](https://wakatime.com/@francescoronel)
+
+[![Frances Coronel - GitHub Overview](https://github-readme-stats.vercel.app/api?username=francescoronel&show_icons=true&theme=vue-dark&locale=en)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers)
