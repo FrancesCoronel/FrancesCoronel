@@ -30,11 +30,11 @@ My open source journey is featured on [GitHub's README blog](https://github.com/
 
 Gave my brief two cents on the art of finding your open source mentor on [the ReadME Podcast](https://github.com/readme/podcast/open-source-minimalism).
 
-## Follow Me Online
+<!-- ## Follow Me Online
 
 [![Frances Coronel - Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=wordpress&logoColor=white&color=blue)](https://francescoronel.com) [![Frances Coronel - LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/francescoronel) [![Frances Coronel - Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/francesvcoronel/) 
 
-[![Frances Coronel - Follow on GitHub](https://img.shields.io/github/followers/francescoronel?logo=github&style=for-the-badge&color=black)](https://github.com/francescoronel?tab=followers)
+[![Frances Coronel - Follow on GitHub](https://img.shields.io/github/followers/francescoronel?logo=github&style=for-the-badge&color=black)](https://github.com/francescoronel?tab=followers) -->
 
 <!-- [![Frances Coronel - GitHub - Profile Views](https://komarev.com/ghpvc/?username=FrancesCoronel&label=GitHub+Profile+Views&style=for-the-badge&color=yellow)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers) 
  -->
