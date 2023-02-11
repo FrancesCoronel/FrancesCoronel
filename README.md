@@ -2,9 +2,9 @@
 
 <img width="200" src="https://user-images.githubusercontent.com/4284691/187105470-49c5c520-b307-4a06-9965-5d8fe8763965.png">
 
-I’m a senior software engineer, a fierce advocate for diversity in tech, and a Corgi mom. 👩🏽‍💻
+I'm a senior software engineer, a fierce advocate for diversity in tech, and a doting Corgi mom. 👩🏽‍💻
 
-I have over six years of fullstack engineering experience with a heavy focus on the front end. My specialties lie in growth engineering, design systems, and accessibility. 🛠️
+I have over six years of full-time software engineering experience with a heavy focus on product and web frontend development. My specialties lie in growth engineering, design systems, and accessibility. 🛠️
 
 Outside work, I enjoy speaking, teaching, and mentoring to lead by example and inspire the next generation of software engineers. 🚀
 
