@@ -49,6 +49,10 @@ I'm the proud sponsor of the 👩🏽‍💻️ emoji through [The Unicode Conso
 
 [![Frances Coronel - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrancesCoronel/FrancesCoronel/discussions/categories/ask-me-anything)
 
+## Discord
+
+[![Frances Coronel - Discord Profile](https://dcbadge.vercel.app/api/shield/151169028696571904)](https://discord.com/users/151169028696571904)
+
 ## Stats
 
 [![Frances Coronel - Wakatime](https://wakatime.com/badge/user/3c657641-ecb4-45cf-8af1-26ec2a51c881.svg?style=for-the-badge)](https://wakatime.com/@francescoronel)
