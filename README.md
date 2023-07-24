@@ -28,7 +28,9 @@ My open source journey is featured on [GitHub's README blog](https://github.com/
 
 **Podcast**
 
-Gave my brief two cents on the art of finding your open source mentor on [the ReadME Podcast](https://github.com/readme/podcast/open-source-minimalism).
+I gave my two cents on the art of finding your open source mentor on [the ReadME Podcast](https://github.com/readme/podcast/open-source-minimalism) (18:20).
+
+I also gave a shout-out to a [fellow maintainer](https://github.com/EllaCodes4) for her work on [Latina Dev](https://latina.dev) on another (README Podcast](https://github.com/readme/podcast/kelsey-hightower) (43:20).
 
 <!-- ## Follow Me Online
 
