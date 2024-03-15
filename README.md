@@ -8,7 +8,7 @@ I have over six years of full-time software engineering experience with a heavy 
 
 Outside work, I enjoy speaking, teaching, and mentoring to lead by example and inspire the next generation of software engineers. 🚀
 
-I am based in Inglewood, California, with my partner and our two Corgis, Luna & Sueño. 🐾
+I am based in the Greater Cleveland area, with my partner and our two Corgis, Luna & Sueño. 🐾
 
 I was born and raised in Norfolk, Virginia, and I identify as Peruvian-American. 🇵🇪
 
