@@ -4,11 +4,11 @@
 
 I'm a senior software engineer, a fierce advocate for diversity in tech, and a doting Corgi mom. 👩🏽‍💻
 
-I have over six years of full-time software engineering experience with a heavy focus on product and web frontend development. My specialties lie in growth engineering, design systems, and accessibility. 🛠️
+I started learning how to code in 2013 and I have been working full-time since June 2017 with a heavy focus on product and web frontend development. My specialties lie in growth engineering, design systems, and accessibility. 🛠️
 
 Outside work, I enjoy speaking, teaching, and mentoring to lead by example and inspire the next generation of software engineers. 🚀
 
-I am based in the Greater Cleveland area, with my partner and our two Corgis, Luna & Sueño. 🐾
+I am based in the San Francisco Bay Area with my two Corgis, Luna & Sueño. 🐾
 
 I was born and raised in Norfolk, Virginia, and I identify as Peruvian-American. 🇵🇪
 
@@ -50,10 +50,6 @@ I'm the proud sponsor of the 👩🏽‍💻️ emoji through [The Unicode Conso
 ## Ask Me Anything
 
 [![Frances Coronel - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrancesCoronel/FrancesCoronel/discussions/categories/ask-me-anything)
-
-## Discord
-
-[![Frances Coronel - Discord Profile](https://dcbadge.vercel.app/api/shield/151169028696571904)](https://discord.com/users/151169028696571904)
 
 ## Stats
 
