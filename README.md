@@ -54,5 +54,3 @@ I'm the proud sponsor of the 👩🏽‍💻️ emoji through [The Unicode Conso
 ## Stats
 
 [![Frances Coronel - Wakatime](https://wakatime.com/badge/user/3c657641-ecb4-45cf-8af1-26ec2a51c881.svg?style=for-the-badge)](https://wakatime.com/@francescoronel)
-
-[![Frances Coronel - GitHub Overview](https://github-readme-stats.vercel.app/api?username=francescoronel&show_icons=true&theme=vue-dark&locale=en)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers)
