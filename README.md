@@ -14,6 +14,13 @@ I was born and raised in Norfolk, Virginia, and I identify as Peruvian-American.
 
 I am passionate about supporting and uplifting other Latino software engineers. 💛
 
+## Website
+
+My personal site is self-hosted on Vercel — built with Next.js 16, Tailwind CSS 4, MDX, and Pagefind search.
+
+[![Frances Coronel - Website](https://img.shields.io/badge/francescoronel.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francescoronel.com)
+[![Frances Coronel - LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/francescoronel)
+
 ## GitHub
 
 I've enjoyed having my work published through GitHub's ReadME project.
@@ -32,15 +39,6 @@ I gave my two cents on the art of finding your open source mentor on [the ReadME
 
 I also gave a shout-out to a [fellow maintainer](https://github.com/EllaCodes4) for her work on [Latina Dev](https://latina.dev) on another [README Podcast](https://github.com/readme/podcast/kelsey-hightower) (43:20).
 
-<!-- ## Follow Me Online
-
-[![Frances Coronel - Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=wordpress&logoColor=white&color=blue)](https://francescoronel.com) [![Frances Coronel - LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/francescoronel) [![Frances Coronel - Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/francesvcoronel/) 
-
-[![Frances Coronel - Follow on GitHub](https://img.shields.io/github/followers/francescoronel?logo=github&style=for-the-badge&color=black)](https://github.com/francescoronel?tab=followers) -->
-
-<!-- [![Frances Coronel - GitHub - Profile Views](https://komarev.com/ghpvc/?username=FrancesCoronel&label=GitHub+Profile+Views&style=for-the-badge&color=yellow)](https://github.com/FrancesCoronel?tab=repositories&sort=stargazers) 
- -->
- 
 ## Adopted Emoji
 
 I'm the proud sponsor of the 👩🏽‍💻️ emoji through [The Unicode Consortium](https://www.unicode.org/consortium/adopted-characters.html).
