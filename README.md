@@ -2,17 +2,19 @@
 
 <img width="200" src="https://user-images.githubusercontent.com/4284691/187105470-49c5c520-b307-4a06-9965-5d8fe8763965.png">
 
-I'm a senior software engineer, a fierce advocate for diversity in tech, and a doting Corgi mom. 👩🏽‍💻
+I'm a Senior Software Engineer at Slack, a fierce advocate for diversity in tech, and a doting Corgi mom. 👩🏽‍💻
 
-I started learning how to code in 2013 and I have been working full-time since June 2017 with a heavy focus on frontend development on product and growth teams.
+I hold a Bachelor's in Computer Science from Hampton University and a Master's in Computer Science from Cornell Tech. I've been working full-time as a software engineer since 2017, specializing in frontend engineering with React and TypeScript.
 
-Outside work, I enjoy speaking and mentoring to lead by example and inspire the next generation of software engineers. 🚀
+I'm currently on Slack's DevXP pillar, focused on AI adoption and developer productivity, building agentic workflows and tooling that help engineers move faster with AI.
 
-I am based in the San Francisco Bay Area with my two Corgis, Luna & Sueño. 🐾
+Outside work, I've spoken at 100+ events and logged 250+ hours mentoring engineers through technical and behavioral interview prep. 🚀
+
+I am based in the San Francisco Bay Area with my two Corgis, Luna and Sueño. 🐾
 
 I was born and raised in Norfolk, Virginia, and I identify as Peruvian-American. 🇵🇪
 
-I am passionate about supporting and uplifting other Latino software engineers. 💛
+I am passionate about making technical leadership more accessible, especially for Latinas and underrepresented engineers. 💛
 
 ## Website
 
