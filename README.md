@@ -4,7 +4,7 @@
 
 I'm a Senior Software Engineer at Slack, a fierce advocate for diversity in tech, and a doting Corgi mom. 👩🏽‍💻
 
-I hold a BS in Computer Science from Hampton University and an MS in Computer Science from Cornell Tech. I've been working full-time as a software engineer since June 2017 — 8+ years specializing in frontend engineering, React, TypeScript, and AI-assisted developer tooling.
+I hold a BS in Computer Science from Hampton University and an MS in Computer Science from Cornell Tech. I've been working full-time as a software engineer since June 2017, with 8+ years specializing in frontend engineering, React, TypeScript, and AI-assisted developer tooling.
 
 I'm currently on Slack's Messaging pillar, focused on AI adoption and developer productivity. I build agentic workflows and internal tooling that help engineers move faster with AI. I also served briefly as an Engineering Manager on the Lists team in early 2025.
 
@@ -12,15 +12,15 @@ Outside work, I've spoken at 100+ events and logged 250+ hours mentoring enginee
 
 I'm based in the San Francisco Bay Area with my two Corgis, Luna and Sueño. 🐾 I was born and raised in Norfolk, Virginia, and I identify as Peruvian-American. 🇵🇪
 
-I'm passionate about making technical leadership more accessible — especially for Latinas and underrepresented engineers. 💛
+I'm passionate about making technical leadership more accessible, especially for Latinas and underrepresented engineers. 💛
 
 ## Highlights ✨
 
 - 🏆 **Latinos 40 Under 40™ Class of 2025** for San Francisco/Silicon Valley
-- 📣 **Speaker at 100+ events** — [conference talks, workshops, panels](https://francescoronel.com/speaking)
-- 🤝 **250+ hours of mentoring** — [1:1 sessions for underrepresented engineers](https://francescoronel.com/mentoring)
-- 📰 **Featured in GitHub ReadME** — [story](https://github.com/readme/stories/frances-coronel), [guide](https://github.com/readme/guides/onward-maintainer-framework), [podcast](https://github.com/readme/podcast/open-source-minimalism)
-- 🎓 **MS Computer Science** — [Cornell Tech](https://tech.cornell.edu) · **BS Computer Science** — [Hampton University](https://hamptonu.edu)
+- 📣 **Speaker at 100+ events:** [conference talks, workshops, panels](https://francescoronel.com/speaking)
+- 🤝 **250+ hours of mentoring:** [1:1 sessions for underrepresented engineers](https://francescoronel.com/mentoring)
+- 📰 **Featured in GitHub ReadME:** [story](https://github.com/readme/stories/frances-coronel), [guide](https://github.com/readme/guides/onward-maintainer-framework), [podcast](https://github.com/readme/podcast/open-source-minimalism)
+- 🎓 **MS Computer Science** at [Cornell Tech](https://tech.cornell.edu) and **BS Computer Science** at [Hampton University](https://hamptonu.edu)
 
 ## Tech Stack 🛠️
 
@@ -37,7 +37,7 @@ I'm passionate about making technical leadership more accessible — especially 
 
 ## Website 🌐
 
-My personal site is self-hosted on Vercel — built with Next.js 16, Tailwind CSS 4, MDX, and Pagefind search. 665+ blog posts, fully static, zero database.
+My personal site is self-hosted on Vercel, built with Next.js 16, Tailwind CSS 4, MDX, and Pagefind search. 665+ blog posts, fully static, zero database.
 
 [![Frances Coronel - Website](https://img.shields.io/badge/francescoronel.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francescoronel.com)
 [![Frances Coronel - LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/francescoronel)
@@ -47,10 +47,10 @@ My personal site is self-hosted on Vercel — built with Next.js 16, Tailwind CS
 
 Proud to have my work published through GitHub's ReadME project.
 
-- **Story** — [My open source journey](https://github.com/readme/stories/frances-coronel)
-- **Guide** — [ONWARD: A framework for maintaining maintainers](https://github.com/readme/guides/onward-maintainer-framework)
-- **Podcast** — [The art of finding your open source mentor](https://github.com/readme/podcast/open-source-minimalism) (18:20)
-- **Podcast** — [Shoutout to a fellow maintainer working on Latina Dev](https://github.com/readme/podcast/kelsey-hightower) (43:20)
+- **Story:** [My open source journey](https://github.com/readme/stories/frances-coronel)
+- **Guide:** [ONWARD: A framework for maintaining maintainers](https://github.com/readme/guides/onward-maintainer-framework)
+- **Podcast:** [The art of finding your open source mentor](https://github.com/readme/podcast/open-source-minimalism) (18:20)
+- **Podcast:** [Shoutout to a fellow maintainer working on Latina Dev](https://github.com/readme/podcast/kelsey-hightower) (43:20)
 
 ## Adopted Emoji 👩🏽‍💻
 
