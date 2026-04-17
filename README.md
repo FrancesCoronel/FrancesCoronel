@@ -6,7 +6,7 @@ I'm a Senior Software Engineer at Slack, a fierce advocate for diversity in tech
 
 I hold a BS in Computer Science from Hampton University and an MS in Computer Science from Cornell Tech. I've been working full-time as a software engineer since June 2017, with 8+ years specializing in frontend engineering, React, TypeScript, and AI-assisted developer tooling.
 
-I'm currently on Slack's Messaging pillar, focused on AI adoption and developer productivity. I build agentic workflows and internal tooling that help engineers move faster with AI. I also served briefly as an Engineering Manager on the Lists team in early 2025.
+I'm currently on Slack's DevXP pillar, focused on AI adoption and developer productivity. I build agentic workflows and internal tooling that help engineers move faster with AI. I also previously worked on the Messaging, Productivity & Growth teams at Slack as a product engineer or engineering manager.
 
 Outside work, I've spoken at 100+ events and logged 250+ hours mentoring engineers through technical and behavioral interview prep. 🚀
 
