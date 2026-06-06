@@ -11,7 +11,7 @@ jobs:
         with:
          args: README.md
       - name: Create Issue From File
-        uses: peter-evans/create-issue-from-file@v2
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: "[Bot] Broken Links Report"
           content-filepath: ./lychee/out.md
