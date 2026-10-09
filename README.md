@@ -1,6 +1,6 @@
 # Hola, I'm [Frances](https://francescoronel.com)! 🍓🍫
 
-<img width="200" src="https://user-images.githubusercontent.com/4284691/187105470-49c5c520-b307-4a06-9965-5d8fe8763965.png">
+<img width="200" src="https://user-images.githubusercontent.com/4284691/187105470-49c5c520-b307-4a06-9965-5d8fe8763965.png" alt="Frances Coronel">
 
 I'm a Senior Software Engineer at Slack, a fierce advocate for diversity in tech, and a doting Corgi mom. 👩🏽‍💻
 
