@@ -1,6 +1,6 @@
 # Hola, I'm [Frances](https://francescoronel.com)! 🍓🍫
 
-<img width="200" src="https://user-images.githubusercontent.com/4284691/187105470-49c5c520-b307-4a06-9965-5d8fe8763965.png">
+<img width="200" src="https://user-images.githubusercontent.com/4284691/187105470-49c5c520-b307-4a06-9965-5d8fe8763965.png" alt="Frances Coronel">
 
 I'm a Senior Software Engineer at Slack, a fierce advocate for diversity in tech, and a doting Corgi mom. 👩🏽‍💻
 
@@ -57,10 +57,6 @@ Proud to have my work published through GitHub's ReadME project.
 I'm the proud sponsor of the 👩🏽‍💻 emoji through [The Unicode Consortium](https://www.unicode.org/consortium/adopted-characters.html).
 
 <a href="https://www.unicode.org/consortium/adopted-characters.html#g1F469_1F3FD_200D_1F4BB"><img src="https://www.unicode.org/consortium/aacimg/badges/gold-1F469_1F3FD_200D_1F4BB.png" alt="Woman Technologist - Medium Skin Tone Emoji" width="150" /></a>
-
-## Ask Me Anything 💬
-
-[![Frances Coronel - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrancesCoronel/FrancesCoronel/discussions/categories/ask-me-anything)
 
 ## Stats 📊
 
