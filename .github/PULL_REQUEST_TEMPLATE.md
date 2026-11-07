@@ -7,4 +7,3 @@ For anything else, please [get in touch](https://francescoronel.com/contact) ins
 <!-- One sentence. -->
 
 - [ ] Links I touched are live
-- [ ] If I used AI tools, I reviewed every change myself
