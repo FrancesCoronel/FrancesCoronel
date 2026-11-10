@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Get in touch with Frances
-    url: https://francescoronel.com/contact
-    about: For speaking, mentoring or anything that isn't a problem with this profile.
-  - name: Report a security vulnerability
-    url: https://github.com/FrancesCoronel/FrancesCoronel/security/policy
-    about: Please don't open a public issue. Follow the security policy instead.
