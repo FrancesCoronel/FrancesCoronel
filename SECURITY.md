@@ -4,9 +4,10 @@
 
 If you discover a security vulnerability in any of my repositories, please **do not** open a public GitHub issue.
 
-Instead, please report it privately via email:
+Instead, use one of these:
 
-- **Email:** [fvcproductions@gmail.com](mailto:fvcproductions@gmail.com)
+- **GitHub Private Vulnerability Reporting** (preferred): use the "Report a vulnerability" button on the Security tab of the affected repository.
+- **Email**: [frances@francescoronel.com](mailto:frances@francescoronel.com)
 
 Your report should include:
 
